@@ -1,0 +1,13 @@
+{
+  "name": "graph",
+  "dependencies": {
+    "trevorgerhardt/haversine": "*"
+  },
+  "local": [
+    "utils",
+    "binaryheap"
+  ],
+  "scripts": [
+    "index.js"
+  ]
+}

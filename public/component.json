@@ -1,0 +1,9 @@
+{
+  "name": "route-builder",
+  "paths": [
+    "client"
+  ],
+  "local": [
+    "application"
+  ]
+}

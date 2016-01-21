@@ -1,0 +1,16 @@
+{
+  "name": "application",
+  "dependencies": {
+    "components/jquery": "1.11.1"
+  },
+  "local": [
+    "graph",
+    "utils"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "style.css"
+  ]
+}

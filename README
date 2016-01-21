@@ -1,0 +1,13 @@
+An exploration of steet-based path selection
+
+
+Build the UI using component:
+
+cd public
+component build
+
+Run the main application:
+
+./activator run
+
+Browse to localhost:9000
